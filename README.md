@@ -21,4 +21,5 @@ I'm a Fresher and looking for a job<br>I''m a student about to graduate from Han
 ---
 [![](https://visitcount.itsvg.in/api?id=hieunm18799&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📊 LeetCode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/vampirehutbin?theme=light&font=Dorsa)
